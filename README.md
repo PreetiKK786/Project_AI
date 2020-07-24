@@ -12,6 +12,9 @@ It is a console application built in c++.
 * In "Single Player" mode, AI provides optimal suggestion to human player for his/her next move 
 * In "Two Player" mode also, AI provides optimal suggestions to both the players for their next move
 
+![](images/2D_TIC_TAC_TOE_screenshot_1.png)
+![](images/2D_TIC_TAC_TOE_screenshot_2.png)
+
 # 3D TIC TAC TOE 
 3D Tic Tac Toe is a java program .
 
@@ -19,8 +22,21 @@ It is a console application built in c++.
 * Allows a human player to play against AI player 
 * You can choose from 3 difficulty levels 
 * 3D Tic Tac Toe has a unique property that it never ends in "TIE" , either human player will "WIN" or AI player will "WIN"
+* If both players play optimally the player which started first is more likely to "WIN" the game 
 * You can choose the sign "X" Or "O" at the start of the game itself 
 * You can choose which player wants to play first or make the first move 
 * AI Player uses MINIMAX ALGORITHM with ALPHA - BETA PRUNING
-* If both players play optimally the player which started first is more likely to "WIN" the game 
-* AI provides optimal suggestion to the human player for his/her next move  
+* AI provides optimal suggestion to the human player for his/her next move 
+
+![](images/3D_TIC_TAC_TOE_screenshot_1.png)
+
+
+![](images/3D_TIC_TAC_TOE_screenshot_2.png)
+
+# Compilation/Execution
+
+$ cd /whatever/folder/3D-Tic-Tac-Toe
+
+$ javac TTT3D.java
+
+$ java TTT3D
