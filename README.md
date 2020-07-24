@@ -15,6 +15,8 @@ It is a console application built in c++.
 ![](images/2D_TIC_TAC_TOE_screenshot_1.png)
 ![](images/2D_TIC_TAC_TOE_screenshot_2.png)
 
+#Compilation / Execution
+* Compile and Run in IDE
 # 3D TIC TAC TOE 
 3D Tic Tac Toe is a java program .
 
@@ -33,7 +35,7 @@ It is a console application built in c++.
 
 ![](images/3D_TIC_TAC_TOE_screenshot_2.png)
 
-# Compilation/Execution
+# Compilation / Execution
 
 $ cd /whatever/folder/3D-Tic-Tac-Toe
 
