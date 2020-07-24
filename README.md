@@ -37,7 +37,7 @@ It is a console application built in c++.
 
 # Compilation / Execution
 
-$ cd /whatever/folder/3D-Tic-Tac-Toe
+$ cd /whatever/folder/3D_TIC_TAC_TOE
 
 $ javac TTT3D.java
 
